@@ -10,3 +10,4 @@ for shop in shopping_dict.keys():
     licznik += len(products)
     print(f"Idę do {shop.capitalize()}, kupuję tu następujące rzeczy: {products}") 
 print(f"W sumie kupuję {licznik} produktów.")
+print("DONE")
